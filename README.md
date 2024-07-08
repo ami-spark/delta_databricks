@@ -1,2 +1,2 @@
 # delta_databricks
-migrate_domminos
+migrate_dominos
